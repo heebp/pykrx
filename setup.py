@@ -13,7 +13,7 @@ setup(
     name='pykrx',
     version=__version__,
     description='KRX data scraping',
-    url='https://github.com/heebp/pykrx',
+    url='https://github.com/sharebook-kr/pykrx',
     author='Brayden Jo, Jonghun Yoo',
     author_email=('brayden.jo@outlook.com, '
                   'jonghun.yoo@outlook.com, '
